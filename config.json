@@ -1,0 +1,23 @@
+{
+	"mas":{
+		"lambda1":{
+			"crn":"1",
+			"concurrency":"2"
+		},
+		"lambda2":{
+			"crn":"100",
+			"concurrency":"200"
+		}
+
+	},
+	"apcas":{
+		"lambda3":{
+			"crn":"xx",
+			"concurrency":"21"
+		},
+		"lambda4":{
+			"crn":"xxxx",
+			"concurrency":"31"
+		}
+	}
+}
